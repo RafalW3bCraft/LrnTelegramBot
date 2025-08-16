@@ -1,0 +1,12 @@
+# Default Image URLs for Broadcasting
+# These are curated, high-quality images for bot demonstrations
+
+https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800
+https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800
+https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800
+https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=800
+https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=800
+https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800
+https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=800
+https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800
+https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=800
