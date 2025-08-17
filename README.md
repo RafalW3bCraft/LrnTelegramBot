@@ -1,4 +1,4 @@
-# Telegram Bot Collection
+# Lrn-Telegram-Bot
 
 A comprehensive collection of Telegram bots demonstrating various bot functionalities including messaging, media sharing, and intelligent conversation capabilities.
 
