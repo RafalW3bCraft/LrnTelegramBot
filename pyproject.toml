@@ -1,5 +1,6 @@
 [project]
-name = "LrnTelegramBot",
+name = "LrnTelegramBot"
+author = "RafalW3bCraft"
 version = "0.1.0"
 description = "A comprehensive collection of Telegram bots demonstrating various bot functionalities including messaging, media sharing, and intelligent conversation capabilities."
 requires-python = ">=3.11"
