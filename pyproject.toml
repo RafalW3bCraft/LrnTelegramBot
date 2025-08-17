@@ -1,7 +1,7 @@
 [project]
-name = "repl-nix-workspace"
+name = "LrnTelegramBot",
 version = "0.1.0"
-description = "Add your description here"
+description = "A comprehensive collection of Telegram bots demonstrating various bot functionalities including messaging, media sharing, and intelligent conversation capabilities."
 requires-python = ">=3.11"
 dependencies = [
     "pandas>=2.3.1",
